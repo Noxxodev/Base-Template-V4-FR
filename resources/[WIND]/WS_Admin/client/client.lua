@@ -23,7 +23,7 @@ function staff_menu()
                     {label = "Me heal", icon = "heart-pulse", iconColor = "#ef4444"},
                     {label = "Me revive", icon = "user-plus", iconColor = "#22c55e"},
                     {label = "Ce TP au marker", icon = "location-arrow", iconColor = "#3b82f6"},
-                    {label = "Ce sur un joueur", icon = "person-walking", iconColor = "#3b82f6"},
+                    {label = "Ce TP sur un joueur", icon = "person-walking", iconColor = "#3b82f6"},
                     {label = "TP un joueur sur moi", icon = "people-arrows", iconColor = "#3b82f6"},
                     {label = "Faire spawn une voiture", icon = "car", iconColor = "#f59e0b"},
                     {label = "Réparer", icon = "screwdriver-wrench", iconColor = "#22c55e"},
